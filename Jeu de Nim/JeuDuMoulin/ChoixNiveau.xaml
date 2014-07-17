@@ -1,0 +1,29 @@
+﻿<Page x:Class="JeuDuMoulin.ChoixNiveau"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Width="640" Height="480"
+	Title="ChoixNiveau">
+
+    <Grid>
+        <Grid x:Name="LayoutRoot" Background="Beige">
+            <Image Source="Images/jeu-nim.jpg" Stretch="Fill" Opacity="0.5" d:IsLocked="True"/>
+            
+            <Label Content="Choix du niveau" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Foreground="#FFB22424" FontFamily="Showcard Gothic" FontSize="29.333" FontWeight="Bold"/>
+            <Rectangle Fill="#FFD8D8FF" Margin="113,116,113,130" Stroke="Black" Opacity="0.6"/>
+            <Button x:Name="bNiv1" Content="Niveau 1" Margin="264,178,281,0" VerticalAlignment="Top" FontFamily="Tempus Sans ITC" Click="bNiv1_Click">
+                
+            </Button>
+            <Button x:Name="bNiv2" Content="Niveau 2" Margin="264,0,281,244" FontFamily="Tempus Sans ITC" VerticalAlignment="Bottom" Click="bNiv2_Click">
+               
+            </Button>
+            <Button x:Name="bRetour" Content="Retour" Margin="264,0,281,210.04" VerticalAlignment="Bottom" FontFamily="Tempus Sans ITC" Click="bRetour_Click">
+               
+            </Button>
+        </Grid>
+
+    </Grid>
+</Page>

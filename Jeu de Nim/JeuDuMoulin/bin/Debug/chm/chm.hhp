@@ -1,0 +1,16 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=chm.chm
+Contents file=C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\chm\Table of Contents.hhc
+Default topic=nim.htm
+Display compile progress=No
+Index file=C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\chm\Index.hhk
+Language=0x80c Français (Belgique)
+Title=Jeu de nim
+
+
+[FILES]
+nim.htm
+
+[INFOTYPES]
+

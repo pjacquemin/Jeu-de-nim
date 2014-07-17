@@ -1,0 +1,15 @@
+E:\JeuDuMoulin\PackModel\bin\Debug\PackModel.dll
+E:\JeuDuMoulin\PackModel\bin\Debug\PackModel.pdb
+E:\JeuDuMoulin\PackModel\obj\Debug\ResolveAssemblyReference.cache
+E:\JeuDuMoulin\PackModel\obj\Debug\PackModel.dll
+E:\JeuDuMoulin\PackModel\obj\Debug\PackModel.pdb
+G:\JeuDuMoulin\PackModel\bin\Debug\PackModel.dll
+G:\JeuDuMoulin\PackModel\bin\Debug\PackModel.pdb
+G:\JeuDuMoulin\PackModel\obj\Debug\ResolveAssemblyReference.cache
+G:\JeuDuMoulin\PackModel\obj\Debug\PackModel.dll
+G:\JeuDuMoulin\PackModel\obj\Debug\PackModel.pdb
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\PackModel\bin\Debug\PackModel.dll
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\PackModel\bin\Debug\PackModel.pdb
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\PackModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\PackModel\obj\Debug\PackModel.dll
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\PackModel\obj\Debug\PackModel.pdb

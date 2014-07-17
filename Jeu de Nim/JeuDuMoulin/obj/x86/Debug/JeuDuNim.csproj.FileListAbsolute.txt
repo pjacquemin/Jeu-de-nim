@@ -1,0 +1,92 @@
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\bin\Debug\dbtest.sdf
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\bin\Debug\Controller.dll
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\bin\Debug\PackDB.dll
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\bin\Debug\PackModel.dll
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\bin\Debug\Business.dll
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\bin\Debug\Controller.pdb
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\bin\Debug\PackDB.pdb
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\bin\Debug\PackModel.pdb
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\bin\Debug\Business.pdb
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\Apropos.baml
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\ChoixNiveau.baml
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\Jeu.baml
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\login.baml
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\MainWindow.baml
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\NouveauJeu.baml
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\NouveauJoueur.baml
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\Options.baml
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\PartiesSauvegardees.baml
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\Scores.baml
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\Apropos.g.cs
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\ChoixNiveau.g.cs
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\Jeu.g.cs
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\login.g.cs
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\NouveauJeu.g.cs
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\NouveauJoueur.g.cs
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\Options.g.cs
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\PartiesSauvegardees.g.cs
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\Scores.g.cs
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\App.g.cs
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\bin\Debug\IA.dll
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\bin\Debug\IA.pdb
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\bin\Debug\ClassLibrary1.dll
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\bin\Debug\ClassLibrary1.pdb
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\ModifCompte.baml
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\ModifCompte.g.cs
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\bin\Debug\JeuDeNim.exe
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\bin\Debug\JeuDeNim.pdb
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\JeuDeNim_MarkupCompile.cache
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\JeuDeNim.g.resources
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\JeuDeNim.Properties.Resources.resources
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\JeuDeNim.exe
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\JeuDuMoulin\obj\x86\Debug\JeuDeNim.pdb
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\JeuDeNim.exe
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\JeuDeNim.pdb
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\bin\Debug\dbtest.sdf
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\bin\Debug\JeuDeNim.exe
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\bin\Debug\JeuDeNim.pdb
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\bin\Debug\ClassLibrary1.dll
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\bin\Debug\Controller.dll
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\bin\Debug\IA.dll
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\bin\Debug\PackDB.dll
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\bin\Debug\PackModel.dll
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\bin\Debug\Business.dll
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\bin\Debug\ClassLibrary1.pdb
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\bin\Debug\Controller.pdb
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\bin\Debug\PackDB.pdb
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\bin\Debug\PackModel.pdb
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\bin\Debug\IA.pdb
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\bin\Debug\Business.pdb
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\Apropos.baml
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\ChoixNiveau.baml
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\Jeu.baml
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\login.baml
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\MainWindow.baml
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\ModifCompte.baml
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\NouveauJeu.baml
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\NouveauJoueur.baml
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\Options.baml
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\PartiesSauvegardees.baml
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\Scores.baml
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\Apropos.g.cs
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\ChoixNiveau.g.cs
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\Jeu.g.cs
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\login.g.cs
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\ModifCompte.g.cs
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\NouveauJeu.g.cs
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\NouveauJoueur.g.cs
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\Options.g.cs
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\PartiesSauvegardees.g.cs
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\Scores.g.cs
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\App.g.cs
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\JeuDeNim_MarkupCompile.cache
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\JeuDeNim.g.resources
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\JeuDeNim.Properties.Resources.resources
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\JeuDuMoulin\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,37 @@
+﻿<Page x:Class="JeuDuMoulin.Options"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Width="640" Height="480"
+	Title="Options">
+
+    <Grid>
+        <Grid x:Name="LayoutRoot" Background="Beige">
+            <Image Source="Images/jeu-nim.jpg" Stretch="Fill" Opacity="0.5" d:IsLocked="True"/>
+            
+            <Label Content="Options" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" FontFamily="Showcard Gothic" FontSize="29.333" Foreground="#FFB22424"/>
+            <Rectangle Fill="#FFD8D8FF" Margin="95,108,96,90" Stroke="Black" Opacity="0.6"/>
+            <Button x:Name="bAppliquer" Content="Appliquer" Margin="286,0,279,51" VerticalAlignment="Bottom" FontFamily="Tempus Sans ITC" Click="bAplliquer_Click"/>
+            <Button x:Name="bRetourOptions" Content="Retour" Margin="285,0,280,23" VerticalAlignment="Bottom" FontFamily="Tempus Sans ITC" Click="bRetourOptions_Click">
+                
+            </Button>
+            <Label Content="Qui commence ?" HorizontalAlignment="Left" Margin="109,121,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+            <RadioButton x:Name="rbJ" Content="Moi" Margin="137,0,459,301" VerticalAlignment="Bottom" GroupName="FirstButt"/>
+            <RadioButton x:Name="rbO" Content="Ordinateur" Margin="187,0,380,301" VerticalAlignment="Bottom" GroupName="FirstButt"/>
+            <Label Content="Couleur du plateau :&#xd;&#xa;" HorizontalAlignment="Left" Margin="109,0,0,243" VerticalAlignment="Bottom" FontSize="16" FontWeight="Bold" Height="30.56"/>
+            <RadioButton x:Name="rb2" Margin="0,0,249,249" VerticalAlignment="Bottom" GroupName="PlateauButt" HorizontalAlignment="Right" Width="44">
+                <Rectangle x:Name="c2" Fill="#FFF0F10A" Height="16.757" Stroke="Black" Width="16"/>
+            </RadioButton>
+            <RadioButton x:Name="rb1" Margin="297,0,299,249" VerticalAlignment="Bottom" GroupName="PlateauButt">
+                <Rectangle x:Name="c1" Fill="#FFD8D8FF" Height="16.757" Stroke="Black" Width="16"/>
+            </RadioButton>
+            <RadioButton x:Name="rb3" Margin="0,0,199,249" VerticalAlignment="Bottom" GroupName="PlateauButt" HorizontalAlignment="Right" Width="44.074">
+                <Rectangle x:Name="c3" Fill="#FF3A3AAF" Height="16.757" Stroke="Black" Width="16"/>
+            </RadioButton>
+        </Grid>
+
+    </Grid>
+</Page>

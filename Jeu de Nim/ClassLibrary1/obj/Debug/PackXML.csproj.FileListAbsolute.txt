@@ -1,0 +1,7 @@
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\ClassLibrary1\bin\Debug\PackModel.dll
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\ClassLibrary1\bin\Debug\PackModel.pdb

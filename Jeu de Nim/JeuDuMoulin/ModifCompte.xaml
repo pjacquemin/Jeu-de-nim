@@ -1,0 +1,36 @@
+﻿<Page x:Class="JeuDuMoulin.ModifCompte"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+       Width ="640" Height="480"
+	Title="ModifCompte">
+
+    <Grid>
+        <Grid>
+            <Grid x:Name="LayoutRoot" Background="beige">
+                <Image Source="Images/jeu-nim.jpg" Stretch="Fill" Opacity="0.5" d:IsLocked="True"/>
+                <Rectangle Fill="#FFD8D8FF" Margin="140,141,163,111" Stroke="Black" Opacity="0.585"/>
+                <Label Content="Nom joueur :" HorizontalAlignment="Left" Height="25" Margin="173,163,0,0" VerticalAlignment="Top" Width="106"/>
+                <Label Content="Mot de passe :" HorizontalAlignment="Left" Height="25" Margin="166,0,0,226" VerticalAlignment="Bottom" Width="106"/>
+                <Label Content="Mot de passe :" HorizontalAlignment="Left" Height="25" Margin="166,197,0,0" VerticalAlignment="Top" Width="106"/>
+                <Label Content="Modifier compte" HorizontalAlignment="Left" Margin="37,32,0,0" VerticalAlignment="Top" FontFamily="Showcard Gothic" FontSize="29.333" Foreground="#FFB22424"/>
+                <Button x:Name="bSupp" Content="Supprimer compte" Margin="266,0,257,165" VerticalAlignment="Bottom" FontFamily="Tempus Sans ITC" Click="bSupp_Click">
+
+                </Button>
+                <Button x:Name="bModif" Content="Modifier compte" Margin="266,0,257,195" VerticalAlignment="Bottom" FontFamily="Tempus Sans ITC" Click="bModif_Click">
+
+                </Button>
+                <Button x:Name="bRetour" Content="Retour" Margin="266,0,257,135" VerticalAlignment="Bottom" FontFamily="Tempus Sans ITC" Click="bRetour_Click">
+
+                </Button>
+                <TextBox Height="25" HorizontalAlignment="Right" Margin="0,165,213,0" Name="loginText" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="174" />
+                <PasswordBox x:Name="mdpText" Margin="253,197,213,0" RenderTransformOrigin="-1.4,-0.756" VerticalAlignment="Top" Height="25" Password=""/>
+                <PasswordBox x:Name="mdpText2" Margin="253,229,213,0" RenderTransformOrigin="-1.4,-0.756" VerticalAlignment="Top" Height="25" Password=""/>
+            </Grid>
+
+        </Grid>
+    </Grid>
+</Page>

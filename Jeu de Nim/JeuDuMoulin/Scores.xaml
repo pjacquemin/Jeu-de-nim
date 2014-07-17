@@ -1,0 +1,30 @@
+﻿<Page x:Class="JeuDuMoulin.Scores"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Width="640" Height="480"
+	Title="Scores">
+
+    <Grid>
+        <Grid x:Name="LayoutRoot" Background="Beige">
+            <Image Source="Images/jeu-nim.jpg" Stretch="Fill" Opacity="0.5" d:IsLocked="True"/>
+            <Label Content="Scores" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" FontFamily="Showcard Gothic" Foreground="#FFB22424" Height="44.853" Width="118.38" FontSize="29.333"/>
+            <Button x:Name="bRetour" Content="Retour au jeu" Margin="268,0,276,32" VerticalAlignment="Bottom" FontFamily="Tempus Sans ITC" Click="bRetour_Click">
+             
+            </Button>
+            <Button x:Name="bRapport" Content="Rapport" Margin="268,0,276,59" VerticalAlignment="Bottom" FontFamily="Tempus Sans ITC" Click="bRapport_Click">
+
+            </Button>
+            <DataGrid Opacity="0.5" AutoGenerateColumns="False" Height="290" HorizontalAlignment="Left" ItemsSource="{Binding}" Margin="144,94,0,0" Name="dataGrid1" VerticalAlignment="Top" Width="334" DataContext="{Binding Path=topscore}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Nom joueur" Binding="{Binding Path=Login1}" Width="180" />
+                    <DataGridTextColumn Header="Nombre partie gagnées" Binding="{Binding Path=NbPartiesGagnees1}" Width="150"/>
+
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</Page>

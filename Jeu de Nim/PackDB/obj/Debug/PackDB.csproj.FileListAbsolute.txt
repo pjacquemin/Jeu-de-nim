@@ -1,0 +1,45 @@
+E:\JeuDuMoulin\PackDB\bin\Debug\PackDB.dll
+E:\JeuDuMoulin\PackDB\bin\Debug\PackDB.pdb
+E:\JeuDuMoulin\PackDB\obj\Debug\ResolveAssemblyReference.cache
+E:\JeuDuMoulin\PackDB\obj\Debug\PackDB.dll
+E:\JeuDuMoulin\PackDB\obj\Debug\PackDB.pdb
+G:\JeuDuMoulin\PackDB\bin\Debug\PackDB.dll
+G:\JeuDuMoulin\PackDB\bin\Debug\PackDB.pdb
+G:\JeuDuMoulin\PackDB\obj\Debug\ResolveAssemblyReference.cache
+G:\JeuDuMoulin\PackDB\obj\Debug\PackDB.dll
+G:\JeuDuMoulin\PackDB\obj\Debug\PackDB.pdb
+E:\JeuDuMoulin\PackDB\bin\Debug\PackModel.dll
+E:\JeuDuMoulin\PackDB\bin\Debug\PackModel.pdb
+E:\JeuDuMoulin\PackDB\bin\Debug\PackDB.dll.config
+E:\JeuDuMoulin\PackDB\bin\Debug\dbtest.sdf
+G:\JeuDuMoulin\PackDB\bin\Debug\dbtest.sdf
+G:\JeuDuMoulin\PackDB\bin\Debug\PackDB.dll.config
+G:\JeuDuMoulin\PackDB\bin\Debug\PackModel.dll
+G:\JeuDuMoulin\PackDB\bin\Debug\PackModel.pdb
+C:\Users\Patrick\Desktop\JeuDuMoulin\PackDB\bin\Debug\dbtest.sdf
+C:\Users\Patrick\Desktop\JeuDuMoulin\PackDB\bin\Debug\PackDB.dll.config
+C:\Users\Patrick\Desktop\JeuDuMoulin\PackDB\bin\Debug\PackDB.dll
+C:\Users\Patrick\Desktop\JeuDuMoulin\PackDB\bin\Debug\PackDB.pdb
+C:\Users\Patrick\Desktop\JeuDuMoulin\PackDB\bin\Debug\PackModel.dll
+C:\Users\Patrick\Desktop\JeuDuMoulin\PackDB\bin\Debug\PackModel.pdb
+C:\Users\Patrick\Desktop\JeuDuMoulin\PackDB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\JeuDuMoulin\PackDB\obj\Debug\PackDB.dll
+C:\Users\Patrick\Desktop\JeuDuMoulin\PackDB\obj\Debug\PackDB.pdb
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\PackDB\bin\Debug\dbtest.sdf
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\PackDB\bin\Debug\PackDB.dll.config
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\PackDB\bin\Debug\PackDB.dll
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\PackDB\bin\Debug\PackDB.pdb
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\PackDB\bin\Debug\PackModel.dll
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\PackDB\bin\Debug\PackModel.pdb
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\PackDB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\PackDB\obj\Debug\PackDB.dll
+C:\Users\Patrick\Desktop\iesn\JeuDuMoulin\PackDB\obj\Debug\PackDB.pdb
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\PackDB\bin\Debug\dbtest.sdf
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\PackDB\bin\Debug\PackDB.dll.config
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\PackDB\bin\Debug\PackDB.dll
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\PackDB\bin\Debug\PackDB.pdb
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\PackDB\bin\Debug\PackModel.dll
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\PackDB\bin\Debug\PackModel.pdb
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\PackDB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\PackDB\obj\Debug\PackDB.dll
+C:\Users\Patrick\Desktop\iesn\Jeu de Nim\PackDB\obj\Debug\PackDB.pdb

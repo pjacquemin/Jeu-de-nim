@@ -1,0 +1,25 @@
+﻿<Page x:Class="JeuDuMoulin.Apropos"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Width="640" Height="480"
+	Title="Apropos">
+
+    <Grid>
+        <Grid x:Name="LayoutRoot" Background="beige">
+            <Image Source="Images/jeu-nim.jpg" Stretch="Fill" Opacity="0.5" d:IsLocked="True"/>
+            
+            <Label Content="A propos" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Foreground="#FFB22323" FontFamily="Showcard Gothic" FontSize="29.333"/>
+            <Rectangle Fill="#FFF4F4F5" Margin="99,107,94,117" Stroke="Black" Opacity="0.6"/>
+            <Button x:Name="bRetour" Content="Retour" Margin="282,0,283,51.04" VerticalAlignment="Bottom" FontFamily="Tempus Sans ITC" Click="bRetour_Click">
+                
+            </Button>
+            <Label Content="Projet Jeu de Nim 2010-2011" Height="28" Margin="143,143,250,0" VerticalAlignment="Top"/>
+            <Label Content="3 année Informatique de Gestion" Height="28" Margin="143,168,250,0" VerticalAlignment="Top" />
+            <Label Content="Créé par Jacquemin Patrick" Height="28" Margin="143,194,250,0" VerticalAlignment="Top" />
+        </Grid>
+    </Grid>
+</Page>
