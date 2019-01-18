@@ -1,4 +1,4 @@
-Jeu-de-nim
+Jeu-de-nim / Nim game
 ==========
 
 This project was made during my last year of my bachelor. It's a game which is played with two players. 
